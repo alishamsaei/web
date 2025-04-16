@@ -149,7 +149,7 @@ body {
     }
 }
 
-/* ------------------- اضافه شده برای چیدمان دو ستونی ------------------- */
+
 #content {
     display: grid;
     grid-template-columns: 1fr 1fr;
